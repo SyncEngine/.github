@@ -1,2 +1,2 @@
-# .github
+# SyncEngine
 Integration Manager
